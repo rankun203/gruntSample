@@ -1,0 +1,23 @@
+{
+  "name": "bower install bootstrap",
+  "version": "0.0.1",
+  "authors": [
+    "rankun203 <rankun203@gmail.com>"
+  ],
+  "description": "no",
+  "main": "app/index.html",
+  "keywords": [
+    "bower",
+    "grunt"
+  ],
+  "license": "MIT",
+  "homepage": "http://rankun.org",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/components",
+    "test",
+    "tests"
+  ]
+}
